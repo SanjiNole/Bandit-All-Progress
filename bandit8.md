@@ -19,4 +19,5 @@ Replace [port_number] with the actual port number you found.
 Sending a Request (If Needed): Sometimes, the service might expect a specific request before it gives you the password. Common simple requests are often just pressing Enter or typing a basic HTTP request like GET / HTTP/1.0 followed by two Enter presses. Experiment if just connecting doesn't immediately give you the password.
 Getting the Password: If you connect successfully and send the right request (if needed), the service running on localhost should send back the password for Bandit Level 9.
 Connect to Level 9: Disconnect with exit and SSH into bandit9@your_ip_address -p 2220 using the password you found.
-![IMG_1694](https://github.com/user-attachments/assets/ab213b1a-3888-406f-9e73-d736b88ea9d3)
+![IMG_1696 (1)](https://github.com/user-attachments/assets/fea5aa01-9059-4e45-bb7d-7b6395d028b3)
+
