@@ -32,3 +32,5 @@ Alternative Search Locations: If the size search doesn't immediately yield a rea
 Reading the Password: Once you locate the file and figure out how to read it (either directly or by understanding the permissions), use cat [file_path] to display its contents. The password for Bandit Level 10 should be there.
 
 Connect to Level 10: Disconnect with exit and SSH into bandit10@your_ip_address -p 2220 using the password you found.
+
+![1431](https://github.com/user-attachments/assets/d9a84759-f6b9-4812-9207-c0a2f2c7cf33)
